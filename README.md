@@ -2,8 +2,8 @@
 Selenium task integrated into web app using RQ and Flask
 
 #### How to run
-- docker-compose up
-- docker-compose build
+- docker-compose up --build --detach
+
 
 #### Content
 - https://python-rq.org/ - Redis queues and workers
