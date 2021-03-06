@@ -1,6 +1,10 @@
 # selenium_in_flask
 Selenium task integrated into web app using RQ and Flask
 
+```diff
+- Сan cause  pain, burning in the eyes and butt hurt, due lame spaghetti code. For example and educational purposes only.
+```
+
 #### How to run
 - docker-compose up --build
 
