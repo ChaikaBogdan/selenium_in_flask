@@ -2,7 +2,7 @@
 Selenium task integrated into web app using RQ and Flask
 
 #### How to run
-- docker-compose up --build --detach
+- docker-compose up --build
 
 
 #### Content
